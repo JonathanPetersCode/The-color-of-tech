@@ -88,19 +88,10 @@ ul.header li a{
     background-color: #FFF;
     padding: 1rem;
     border-radius: 5px;
-    border: solid 1px #735cac;
     box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
 }
 
 /*Profile Styles*/
-
-body {
-    color: rgb(75, 74, 74);
-    font-style: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    padding: 1rem;
-}
 .card_content {
   min-height: 100%;
   display: flex;
@@ -226,6 +217,8 @@ img {
     border-radius: .25rem;
 }
 .event-style{
+    display: flex;
+    justify-content: center;
     margin-top: .8rem;
     background: #FFF;
     border-radius: 5px;
@@ -307,6 +300,9 @@ img {
 }
 .about-description{
     padding: 0 .5rem;
+}
+.about-description h1, p{
+    padding: 4rem;
 }
 .cover {
     object-fit: cover;

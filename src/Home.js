@@ -73,7 +73,7 @@ class Home extends Component {
                                 </div>
                             </div>
                         </li>
-                        <li className="cards__item">
+        <li className="cards__item">
                 <div className="card">
                 <img className="profileImgPad" src={kimberlyPic} alt="Kimberly Bryant"/>
                 <div className="card__content">
@@ -97,13 +97,13 @@ class Home extends Component {
                 <a href="https://bit.ly/2TOHUVu"><i className="fas fa-globe fa-3x"></i></a>
                 <a href="https://bit.ly/2TxbMGK"><i className="fab fa-twitter-square fa-3x"></i></a>
                 <a href="https://bit.ly/2EZnPCz" rel="noopener noreferrer"><i className="fab fa-linkedin fa-3x"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
-        </div>
-</li>
-                    </ul>
-                </div>
-            </div>
         );
     }
 }
