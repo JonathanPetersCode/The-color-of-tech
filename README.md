@@ -1,4 +1,13 @@
-Color of Tech 
+Color of Tech - A react single page application I built to demonstrate the power of React and React Router. The entire application is hosted on Netlify hosting service and uses a dynamic routing system that allows the user to navigate to different pages of the application with refreshing the page while displaying the current section within the address bar. 
+
+A few key features that were made possible with React/React Router and CSS: 
+  1) Utilized React to promote scalability and resuability using React components
+  2) Users can realiable bookmark or copy specific URL's and load the paticular sections of the SPA.
+  3) Forward and back buttons allow the user to navigate through out application without refreshing the page.
+  4) Used seperate CSS with Flexbox for structured styling of the entire application. 
+ 
+I enjoyed build this application because it allowed me sharpen my understanding of React, the most popular Front-End framework for building complex UI's, as well learning more about alternative ways in which users can navigate a web app.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
